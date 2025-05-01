@@ -1,0 +1,20 @@
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: neo4jpv
+  namespace: neo4j
+spec:
+  capacity:
+    storage: 50Gi
+  volumeMode: Filesystem
+  accessModes:
+    - ReadWriteMany
+  persistentVolumeReclaimPolicy: Retain
+  hostPath:
+    path: /nfs
+    type: DirectoryOrCreate
+  claimRef:
+    apiVersion: v1
+    kind: PersitentVolumeClaim
+    name: neo4jpvc
+    namespace: neo4j

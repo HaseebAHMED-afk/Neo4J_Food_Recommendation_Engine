@@ -1,0 +1,39 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name:  neo4j
+  labels:
+    name:  neo4j
+  namespace: neo4j
+spec:
+  selector:
+    matchLabels:
+      name:  neo4j
+  strategy:
+    rollingUpdate:
+      maxSurge: 1
+      maxUnavailable: 1
+    type: RollingUpdate
+  template:
+    metadata:
+      labels:
+        name:  neo4j
+    spec:
+      containers:
+      - image:  neo4j:latest
+        name:  neo4j
+        imagePullPolicy: Always
+        volumeMounts:
+        - mountPath: /data
+          name: neo4j-pvc
+          subPath: data
+        - mountPath: /import
+          name: neo4j-pvc
+          subPath: data/import
+          
+      volumes:
+        - name: neo4j-pvc
+          persistentVolumeClaim:
+            claimName: neo4jpvc
+      
+      

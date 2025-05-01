@@ -1,0 +1,1001 @@
+name,cuisine
+Spaghetti Carbonara,Chinese
+Tacos al Pastor,Turkish
+Sushi Roll,Malaysian
+Butter Chicken,Malaysian
+Croissant,British
+Paella,German
+Beef Bourguignon,Indonesian
+Tom Yum Soup,Japanese
+Baklava,Korean
+Kimchi Stew,Mexican
+Moussaka,Mexican
+Shawarma,German
+Borscht,Filipino
+Pad Thai,French
+Peking Duck,German
+Hamburger,Brazilian
+Fish and Chips,Japanese
+Pho,American
+Arepas,Japanese
+Churrasco,Spanish
+Chicken Adobo,French
+Ceviche,Japanese
+Pierogi,Middle Eastern
+Jollof Rice,Indonesian
+Kebab,Indian
+Lasagna,Chinese
+Goulash,British
+Empanadas,Indian
+Fajitas,Mexican
+Ratatouille,Middle Eastern
+Okonomiyaki,German
+Bibimbap,American
+Sauerbraten,Middle Eastern
+Couscous,American
+Dolma,Indian
+Dim Sum,Peruvian
+Gumbo,Vietnamese
+Cottage Pie,Malaysian
+Tomato Bruschetta,Spanish
+Massaman Curry,German
+Falafel,Greek
+Sancocho,German
+Tagine,Thai
+Schnitzel,Filipino
+Chicken Parmesan,Greek
+Clam Chowder,Middle Eastern
+Pav Bhaji,Moroccan
+Beef Rendang,Japanese
+Laksa,Brazilian
+Tandoori Chicken,French
+Sushi,French
+Ramen,Brazilian
+Chicken Tikka Masala,British
+Falafel,Mexican
+Biryani,Mexican
+Pasta Primavera,Middle Eastern
+Lasagna,French
+Pad See Ew,Spanish
+Ratatouille,French
+Mole,French
+Banh Mi,Brazilian
+Fried Rice,Indian
+Hummus,Spanish
+Steak Frites,Italian
+Goulash,Japanese
+Tomato Soup,Mexican
+Sauerbraten,Brazilian
+Cevapcici,Filipino
+Gnocchi,Middle Eastern
+Jambalaya,American
+Spaghetti Carbonara,French
+Tacos al Pastor,Japanese
+Sushi Roll,Middle Eastern
+Butter Chicken,German
+Croissant,Middle Eastern
+Paella,French
+Beef Bourguignon,American
+Tom Yum Soup,Greek
+Baklava,Moroccan
+Kimchi Stew,Indian
+Moussaka,Mexican
+Shawarma,Chinese
+Borscht,Chinese
+Pad Thai,Malaysian
+Peking Duck,Brazilian
+Hamburger,Spanish
+Fish and Chips,Middle Eastern
+Pho,Malaysian
+Arepas,British
+Churrasco,Filipino
+Chicken Adobo,Greek
+Ceviche,Mexican
+Pierogi,Chinese
+Jollof Rice,French
+Kebab,Vietnamese
+Lasagna,Filipino
+Goulash,Malaysian
+Empanadas,Filipino
+Fajitas,Greek
+Ratatouille,Italian
+Okonomiyaki,Moroccan
+Bibimbap,Turkish
+Sauerbraten,British
+Couscous,Korean
+Dolma,Italian
+Dim Sum,Italian
+Gumbo,British
+Cottage Pie,Chinese
+Tomato Bruschetta,Spanish
+Massaman Curry,Mexican
+Falafel,Peruvian
+Sancocho,Chinese
+Tagine,Indian
+Schnitzel,Brazilian
+Chicken Parmesan,Malaysian
+Clam Chowder,Italian
+Pav Bhaji,Middle Eastern
+Beef Rendang,Thai
+Laksa,Filipino
+Tandoori Chicken,Japanese
+Sushi,Peruvian
+Ramen,German
+Chicken Tikka Masala,Mexican
+Falafel,Brazilian
+Biryani,Vietnamese
+Pasta Primavera,Filipino
+Lasagna,Indonesian
+Pad See Ew,Vietnamese
+Ratatouille,Moroccan
+Mole,Vietnamese
+Banh Mi,French
+Fried Rice,Thai
+Hummus,Mexican
+Steak Frites,Turkish
+Goulash,Middle Eastern
+Tomato Soup,French
+Sauerbraten,Moroccan
+Cevapcici,Peruvian
+Gnocchi,French
+Jambalaya,American
+Spaghetti Carbonara,Greek
+Tacos al Pastor,Middle Eastern
+Sushi Roll,Malaysian
+Butter Chicken,Vietnamese
+Croissant,Vietnamese
+Paella,German
+Beef Bourguignon,Indonesian
+Tom Yum Soup,Malaysian
+Baklava,Mexican
+Kimchi Stew,Korean
+Moussaka,German
+Shawarma,Middle Eastern
+Borscht,Italian
+Pad Thai,Spanish
+Peking Duck,Moroccan
+Hamburger,Spanish
+Fish and Chips,Japanese
+Pho,Malaysian
+Arepas,Japanese
+Churrasco,British
+Chicken Adobo,Japanese
+Ceviche,Chinese
+Pierogi,Mexican
+Jollof Rice,Malaysian
+Kebab,Italian
+Lasagna,German
+Goulash,Malaysian
+Empanadas,German
+Fajitas,Moroccan
+Ratatouille,Moroccan
+Okonomiyaki,Filipino
+Bibimbap,Japanese
+Sauerbraten,Peruvian
+Couscous,Chinese
+Dolma,Moroccan
+Dim Sum,Thai
+Gumbo,American
+Cottage Pie,Malaysian
+Tomato Bruschetta,Turkish
+Massaman Curry,Vietnamese
+Falafel,Indonesian
+Sancocho,Indonesian
+Tagine,Thai
+Schnitzel,Indonesian
+Chicken Parmesan,Indian
+Clam Chowder,Korean
+Pav Bhaji,Turkish
+Beef Rendang,Chinese
+Laksa,Malaysian
+Tandoori Chicken,French
+Sushi,Malaysian
+Ramen,French
+Chicken Tikka Masala,Italian
+Falafel,Indian
+Biryani,Filipino
+Pasta Primavera,British
+Lasagna,Greek
+Pad See Ew,American
+Ratatouille,Moroccan
+Mole,Greek
+Banh Mi,American
+Fried Rice,Malaysian
+Hummus,British
+Steak Frites,French
+Goulash,Peruvian
+Tomato Soup,Mexican
+Sauerbraten,Middle Eastern
+Cevapcici,Greek
+Gnocchi,Indian
+Jambalaya,Turkish
+Spaghetti Carbonara,Moroccan
+Tacos al Pastor,Indian
+Sushi Roll,Peruvian
+Butter Chicken,Peruvian
+Croissant,Brazilian
+Paella,French
+Beef Bourguignon,Greek
+Tom Yum Soup,Indonesian
+Baklava,Italian
+Kimchi Stew,American
+Moussaka,Indonesian
+Shawarma,American
+Borscht,Vietnamese
+Pad Thai,German
+Peking Duck,Filipino
+Hamburger,Peruvian
+Fish and Chips,Turkish
+Pho,Middle Eastern
+Arepas,Korean
+Churrasco,Vietnamese
+Chicken Adobo,Japanese
+Ceviche,Chinese
+Pierogi,Vietnamese
+Jollof Rice,French
+Kebab,Mexican
+Lasagna,Korean
+Goulash,Thai
+Empanadas,Italian
+Fajitas,British
+Ratatouille,Middle Eastern
+Okonomiyaki,Korean
+Bibimbap,Italian
+Sauerbraten,Peruvian
+Couscous,Vietnamese
+Dolma,Chinese
+Dim Sum,Indian
+Gumbo,Middle Eastern
+Cottage Pie,Middle Eastern
+Tomato Bruschetta,Thai
+Massaman Curry,Indonesian
+Falafel,Mexican
+Sancocho,Chinese
+Tagine,Chinese
+Schnitzel,Spanish
+Chicken Parmesan,Indian
+Clam Chowder,Thai
+Pav Bhaji,Turkish
+Beef Rendang,Malaysian
+Laksa,Peruvian
+Tandoori Chicken,Japanese
+Sushi,Peruvian
+Ramen,American
+Chicken Tikka Masala,Middle Eastern
+Falafel,Filipino
+Biryani,Moroccan
+Pasta Primavera,Malaysian
+Lasagna,Indonesian
+Pad See Ew,Peruvian
+Ratatouille,Moroccan
+Mole,Thai
+Banh Mi,Thai
+Fried Rice,Brazilian
+Hummus,Spanish
+Steak Frites,Japanese
+Goulash,Mexican
+Tomato Soup,Malaysian
+Sauerbraten,Malaysian
+Cevapcici,Indonesian
+Gnocchi,Japanese
+Jambalaya,Malaysian
+Spaghetti Carbonara,Turkish
+Tacos al Pastor,Thai
+Sushi Roll,French
+Butter Chicken,Italian
+Croissant,Indonesian
+Paella,Mexican
+Beef Bourguignon,Chinese
+Tom Yum Soup,Thai
+Baklava,Peruvian
+Kimchi Stew,Peruvian
+Moussaka,British
+Shawarma,American
+Borscht,Peruvian
+Pad Thai,Malaysian
+Peking Duck,Japanese
+Hamburger,Japanese
+Fish and Chips,Peruvian
+Pho,French
+Arepas,Brazilian
+Churrasco,Indian
+Chicken Adobo,Middle Eastern
+Ceviche,American
+Pierogi,Malaysian
+Jollof Rice,American
+Kebab,Peruvian
+Lasagna,Thai
+Goulash,Korean
+Empanadas,British
+Fajitas,Mexican
+Ratatouille,Brazilian
+Okonomiyaki,Indian
+Bibimbap,Turkish
+Sauerbraten,Italian
+Couscous,Mexican
+Dolma,Malaysian
+Dim Sum,Chinese
+Gumbo,Indonesian
+Cottage Pie,Spanish
+Tomato Bruschetta,Peruvian
+Massaman Curry,Middle Eastern
+Falafel,Indian
+Sancocho,Chinese
+Tagine,Middle Eastern
+Schnitzel,Thai
+Chicken Parmesan,Vietnamese
+Clam Chowder,Turkish
+Pav Bhaji,Chinese
+Beef Rendang,Korean
+Laksa,American
+Tandoori Chicken,Spanish
+Sushi,French
+Ramen,Moroccan
+Chicken Tikka Masala,Moroccan
+Falafel,Indonesian
+Biryani,Spanish
+Pasta Primavera,Spanish
+Lasagna,Chinese
+Pad See Ew,French
+Ratatouille,Mexican
+Mole,Turkish
+Banh Mi,Vietnamese
+Fried Rice,Peruvian
+Hummus,Mexican
+Steak Frites,Greek
+Goulash,American
+Tomato Soup,Brazilian
+Sauerbraten,German
+Cevapcici,Italian
+Gnocchi,Moroccan
+Jambalaya,Italian
+Spaghetti Carbonara,Mexican
+Tacos al Pastor,Middle Eastern
+Sushi Roll,Indian
+Butter Chicken,French
+Croissant,Turkish
+Paella,French
+Beef Bourguignon,Filipino
+Tom Yum Soup,Turkish
+Baklava,Chinese
+Kimchi Stew,Malaysian
+Moussaka,Indonesian
+Shawarma,French
+Borscht,British
+Pad Thai,Italian
+Peking Duck,Turkish
+Hamburger,Japanese
+Fish and Chips,Chinese
+Pho,Moroccan
+Arepas,German
+Churrasco,Indian
+Chicken Adobo,Greek
+Ceviche,Italian
+Pierogi,Italian
+Jollof Rice,Moroccan
+Kebab,Peruvian
+Lasagna,Greek
+Goulash,French
+Empanadas,Middle Eastern
+Fajitas,Greek
+Ratatouille,Vietnamese
+Okonomiyaki,Thai
+Bibimbap,Spanish
+Sauerbraten,Mexican
+Couscous,Vietnamese
+Dolma,Chinese
+Dim Sum,Italian
+Gumbo,Italian
+Cottage Pie,Indian
+Tomato Bruschetta,Indian
+Massaman Curry,Brazilian
+Falafel,American
+Sancocho,Vietnamese
+Tagine,Vietnamese
+Schnitzel,Chinese
+Chicken Parmesan,Chinese
+Clam Chowder,Brazilian
+Pav Bhaji,Filipino
+Beef Rendang,Thai
+Laksa,Indonesian
+Tandoori Chicken,Indian
+Sushi,French
+Ramen,Korean
+Chicken Tikka Masala,American
+Falafel,Chinese
+Biryani,British
+Pasta Primavera,Chinese
+Lasagna,Indonesian
+Pad See Ew,Japanese
+Ratatouille,American
+Mole,American
+Banh Mi,Middle Eastern
+Fried Rice,Malaysian
+Hummus,Italian
+Steak Frites,Moroccan
+Goulash,Spanish
+Tomato Soup,Indian
+Sauerbraten,Vietnamese
+Cevapcici,Mexican
+Gnocchi,Thai
+Jambalaya,Chinese
+Spaghetti Carbonara,Italian
+Tacos al Pastor,American
+Sushi Roll,French
+Butter Chicken,Brazilian
+Croissant,Middle Eastern
+Paella,French
+Beef Bourguignon,Malaysian
+Tom Yum Soup,Korean
+Baklava,Indian
+Kimchi Stew,Greek
+Moussaka,Vietnamese
+Shawarma,British
+Borscht,Indian
+Pad Thai,Malaysian
+Peking Duck,Indian
+Hamburger,Middle Eastern
+Fish and Chips,Malaysian
+Pho,Middle Eastern
+Arepas,American
+Churrasco,Moroccan
+Chicken Adobo,Peruvian
+Ceviche,Japanese
+Pierogi,Moroccan
+Jollof Rice,Malaysian
+Kebab,Peruvian
+Lasagna,German
+Goulash,Chinese
+Empanadas,Mexican
+Fajitas,Greek
+Ratatouille,French
+Okonomiyaki,German
+Bibimbap,American
+Sauerbraten,Turkish
+Couscous,French
+Dolma,Mexican
+Dim Sum,Vietnamese
+Gumbo,Korean
+Cottage Pie,Malaysian
+Tomato Bruschetta,Malaysian
+Massaman Curry,Filipino
+Falafel,German
+Sancocho,Moroccan
+Tagine,Moroccan
+Schnitzel,American
+Chicken Parmesan,Moroccan
+Clam Chowder,Vietnamese
+Pav Bhaji,Turkish
+Beef Rendang,Indonesian
+Laksa,Vietnamese
+Tandoori Chicken,Indian
+Sushi,German
+Ramen,Vietnamese
+Chicken Tikka Masala,Spanish
+Falafel,French
+Biryani,Greek
+Pasta Primavera,French
+Lasagna,Italian
+Pad See Ew,French
+Ratatouille,Chinese
+Mole,Indonesian
+Banh Mi,Peruvian
+Fried Rice,Middle Eastern
+Hummus,Turkish
+Steak Frites,Malaysian
+Goulash,Korean
+Tomato Soup,Turkish
+Sauerbraten,Italian
+Cevapcici,American
+Gnocchi,Turkish
+Jambalaya,Japanese
+Spaghetti Carbonara,Indian
+Tacos al Pastor,British
+Sushi Roll,German
+Butter Chicken,Peruvian
+Croissant,Indonesian
+Paella,Indian
+Beef Bourguignon,Italian
+Tom Yum Soup,American
+Baklava,Italian
+Kimchi Stew,Thai
+Moussaka,Thai
+Shawarma,Peruvian
+Borscht,Moroccan
+Pad Thai,Indonesian
+Peking Duck,Malaysian
+Hamburger,Indian
+Fish and Chips,Peruvian
+Pho,Indonesian
+Arepas,Chinese
+Churrasco,Moroccan
+Chicken Adobo,Korean
+Ceviche,Italian
+Pierogi,British
+Jollof Rice,American
+Kebab,Korean
+Lasagna,Chinese
+Goulash,Spanish
+Empanadas,Turkish
+Fajitas,Moroccan
+Ratatouille,Brazilian
+Okonomiyaki,French
+Bibimbap,French
+Sauerbraten,Chinese
+Couscous,Chinese
+Dolma,Indian
+Dim Sum,Brazilian
+Gumbo,Korean
+Cottage Pie,Vietnamese
+Tomato Bruschetta,Spanish
+Massaman Curry,Moroccan
+Falafel,Indonesian
+Sancocho,Mexican
+Tagine,Vietnamese
+Schnitzel,Middle Eastern
+Chicken Parmesan,Mexican
+Clam Chowder,Italian
+Pav Bhaji,German
+Beef Rendang,British
+Laksa,Brazilian
+Tandoori Chicken,Vietnamese
+Sushi,Italian
+Ramen,Turkish
+Chicken Tikka Masala,Peruvian
+Falafel,Mexican
+Biryani,French
+Pasta Primavera,Brazilian
+Lasagna,Peruvian
+Pad See Ew,Moroccan
+Ratatouille,Malaysian
+Mole,Indonesian
+Banh Mi,Indian
+Fried Rice,Turkish
+Hummus,Mexican
+Steak Frites,Thai
+Goulash,Thai
+Tomato Soup,Indian
+Sauerbraten,Indonesian
+Cevapcici,Malaysian
+Gnocchi,Vietnamese
+Jambalaya,Italian
+Spaghetti Carbonara,German
+Tacos al Pastor,Malaysian
+Sushi Roll,Chinese
+Butter Chicken,Chinese
+Croissant,Vietnamese
+Paella,Indonesian
+Beef Bourguignon,Middle Eastern
+Tom Yum Soup,Moroccan
+Baklava,Filipino
+Kimchi Stew,Chinese
+Moussaka,British
+Shawarma,Indian
+Borscht,Chinese
+Pad Thai,Vietnamese
+Peking Duck,Italian
+Hamburger,Vietnamese
+Fish and Chips,British
+Pho,Spanish
+Arepas,French
+Churrasco,Peruvian
+Chicken Adobo,Chinese
+Ceviche,Spanish
+Pierogi,Indonesian
+Jollof Rice,Malaysian
+Kebab,Brazilian
+Lasagna,Spanish
+Goulash,German
+Empanadas,Middle Eastern
+Fajitas,Greek
+Ratatouille,Spanish
+Okonomiyaki,Italian
+Bibimbap,French
+Sauerbraten,Vietnamese
+Couscous,Malaysian
+Dolma,Peruvian
+Dim Sum,Malaysian
+Gumbo,Indonesian
+Cottage Pie,Brazilian
+Tomato Bruschetta,German
+Massaman Curry,Japanese
+Falafel,Moroccan
+Sancocho,British
+Tagine,Mexican
+Schnitzel,Turkish
+Chicken Parmesan,British
+Clam Chowder,Turkish
+Pav Bhaji,German
+Beef Rendang,American
+Laksa,German
+Tandoori Chicken,Indian
+Sushi,Indonesian
+Ramen,Japanese
+Chicken Tikka Masala,German
+Falafel,Filipino
+Biryani,Spanish
+Pasta Primavera,Malaysian
+Lasagna,Brazilian
+Pad See Ew,Peruvian
+Ratatouille,Greek
+Mole,Greek
+Banh Mi,Mexican
+Fried Rice,Moroccan
+Hummus,Filipino
+Steak Frites,Chinese
+Goulash,Filipino
+Tomato Soup,Indonesian
+Sauerbraten,British
+Cevapcici,Peruvian
+Gnocchi,Thai
+Jambalaya,Indonesian
+Spaghetti Carbonara,Japanese
+Tacos al Pastor,Indonesian
+Sushi Roll,Brazilian
+Butter Chicken,Spanish
+Croissant,Vietnamese
+Paella,American
+Beef Bourguignon,Spanish
+Tom Yum Soup,Chinese
+Baklava,Japanese
+Kimchi Stew,German
+Moussaka,Turkish
+Shawarma,American
+Borscht,Malaysian
+Pad Thai,Korean
+Peking Duck,Korean
+Hamburger,Moroccan
+Fish and Chips,French
+Pho,Chinese
+Arepas,Thai
+Churrasco,Thai
+Chicken Adobo,Thai
+Ceviche,Moroccan
+Pierogi,Mexican
+Jollof Rice,Brazilian
+Kebab,British
+Lasagna,French
+Goulash,Thai
+Empanadas,Peruvian
+Fajitas,Chinese
+Ratatouille,Peruvian
+Okonomiyaki,Peruvian
+Bibimbap,French
+Sauerbraten,Indonesian
+Couscous,Italian
+Dolma,Chinese
+Dim Sum,Chinese
+Gumbo,French
+Cottage Pie,British
+Tomato Bruschetta,Indonesian
+Massaman Curry,Greek
+Falafel,Italian
+Sancocho,Indonesian
+Tagine,Indonesian
+Schnitzel,Brazilian
+Chicken Parmesan,Italian
+Clam Chowder,Mexican
+Pav Bhaji,Italian
+Beef Rendang,Vietnamese
+Laksa,Italian
+Tandoori Chicken,American
+Sushi,American
+Ramen,American
+Chicken Tikka Masala,British
+Falafel,Turkish
+Biryani,Brazilian
+Pasta Primavera,Turkish
+Lasagna,Malaysian
+Pad See Ew,Peruvian
+Ratatouille,Turkish
+Mole,Vietnamese
+Banh Mi,British
+Fried Rice,Vietnamese
+Hummus,British
+Steak Frites,Indian
+Goulash,American
+Tomato Soup,Moroccan
+Sauerbraten,Malaysian
+Cevapcici,Moroccan
+Gnocchi,Indonesian
+Jambalaya,Vietnamese
+Spaghetti Carbonara,French
+Tacos al Pastor,Indonesian
+Sushi Roll,Greek
+Butter Chicken,Korean
+Croissant,Korean
+Paella,Brazilian
+Beef Bourguignon,British
+Tom Yum Soup,German
+Baklava,Mexican
+Kimchi Stew,Malaysian
+Moussaka,Korean
+Shawarma,Korean
+Borscht,Japanese
+Pad Thai,Middle Eastern
+Peking Duck,Middle Eastern
+Hamburger,Korean
+Fish and Chips,Spanish
+Pho,Spanish
+Arepas,Peruvian
+Churrasco,Spanish
+Chicken Adobo,Turkish
+Ceviche,Malaysian
+Pierogi,French
+Jollof Rice,Chinese
+Kebab,Brazilian
+Lasagna,Moroccan
+Goulash,Brazilian
+Empanadas,Moroccan
+Fajitas,Thai
+Ratatouille,French
+Okonomiyaki,Brazilian
+Bibimbap,Filipino
+Sauerbraten,Korean
+Couscous,American
+Dolma,Italian
+Dim Sum,Chinese
+Gumbo,Greek
+Cottage Pie,Spanish
+Tomato Bruschetta,Turkish
+Massaman Curry,Greek
+Falafel,Turkish
+Sancocho,Korean
+Tagine,Italian
+Schnitzel,Spanish
+Chicken Parmesan,Korean
+Clam Chowder,Vietnamese
+Pav Bhaji,Greek
+Beef Rendang,Turkish
+Laksa,Peruvian
+Tandoori Chicken,Chinese
+Sushi,Indian
+Ramen,Spanish
+Chicken Tikka Masala,American
+Falafel,Japanese
+Biryani,Vietnamese
+Pasta Primavera,Turkish
+Lasagna,Brazilian
+Pad See Ew,Indian
+Ratatouille,Malaysian
+Mole,Vietnamese
+Banh Mi,Indian
+Fried Rice,German
+Hummus,Mexican
+Steak Frites,German
+Goulash,Indonesian
+Tomato Soup,Malaysian
+Sauerbraten,Vietnamese
+Cevapcici,Indonesian
+Gnocchi,Korean
+Jambalaya,Indian
+Spaghetti Carbonara,Korean
+Tacos al Pastor,Moroccan
+Sushi Roll,Turkish
+Butter Chicken,British
+Croissant,Middle Eastern
+Paella,Indian
+Beef Bourguignon,Turkish
+Tom Yum Soup,Brazilian
+Baklava,Filipino
+Kimchi Stew,Peruvian
+Moussaka,Spanish
+Shawarma,Spanish
+Borscht,Greek
+Pad Thai,Turkish
+Peking Duck,Spanish
+Hamburger,British
+Fish and Chips,German
+Pho,German
+Arepas,Vietnamese
+Churrasco,Italian
+Chicken Adobo,Brazilian
+Ceviche,French
+Pierogi,Turkish
+Jollof Rice,Spanish
+Kebab,Moroccan
+Lasagna,Korean
+Goulash,Malaysian
+Empanadas,Italian
+Fajitas,British
+Ratatouille,Spanish
+Okonomiyaki,Italian
+Bibimbap,Chinese
+Sauerbraten,Thai
+Couscous,Mexican
+Dolma,Japanese
+Dim Sum,Vietnamese
+Gumbo,Middle Eastern
+Cottage Pie,Japanese
+Tomato Bruschetta,Vietnamese
+Massaman Curry,Greek
+Falafel,Mexican
+Sancocho,British
+Tagine,Moroccan
+Schnitzel,Mexican
+Chicken Parmesan,German
+Clam Chowder,Moroccan
+Pav Bhaji,Indonesian
+Beef Rendang,German
+Laksa,Indian
+Tandoori Chicken,Italian
+Sushi,Indonesian
+Ramen,French
+Chicken Tikka Masala,Thai
+Falafel,Chinese
+Biryani,Mexican
+Pasta Primavera,British
+Lasagna,Italian
+Pad See Ew,Mexican
+Ratatouille,Spanish
+Mole,German
+Banh Mi,Korean
+Fried Rice,Chinese
+Hummus,Italian
+Steak Frites,Korean
+Goulash,Vietnamese
+Tomato Soup,Spanish
+Sauerbraten,Vietnamese
+Cevapcici,Turkish
+Gnocchi,Filipino
+Jambalaya,French
+Spaghetti Carbonara,Chinese
+Tacos al Pastor,Malaysian
+Sushi Roll,Turkish
+Butter Chicken,German
+Croissant,British
+Paella,Vietnamese
+Beef Bourguignon,Korean
+Tom Yum Soup,Malaysian
+Baklava,British
+Kimchi Stew,Turkish
+Moussaka,Peruvian
+Shawarma,American
+Borscht,British
+Pad Thai,Indian
+Peking Duck,Thai
+Hamburger,Middle Eastern
+Fish and Chips,Filipino
+Pho,Vietnamese
+Arepas,German
+Churrasco,Chinese
+Chicken Adobo,Turkish
+Ceviche,Chinese
+Pierogi,Turkish
+Jollof Rice,Moroccan
+Kebab,Greek
+Lasagna,German
+Goulash,German
+Empanadas,Indian
+Fajitas,Italian
+Ratatouille,German
+Okonomiyaki,Vietnamese
+Bibimbap,Korean
+Sauerbraten,Spanish
+Couscous,Chinese
+Dolma,Mexican
+Dim Sum,Thai
+Gumbo,British
+Cottage Pie,Japanese
+Tomato Bruschetta,Thai
+Massaman Curry,French
+Falafel,Malaysian
+Sancocho,Moroccan
+Tagine,Greek
+Schnitzel,French
+Chicken Parmesan,Thai
+Clam Chowder,French
+Pav Bhaji,German
+Beef Rendang,Spanish
+Laksa,Peruvian
+Tandoori Chicken,Vietnamese
+Sushi,Vietnamese
+Ramen,French
+Chicken Tikka Masala,Mexican
+Falafel,Moroccan
+Biryani,Brazilian
+Pasta Primavera,Vietnamese
+Lasagna,German
+Pad See Ew,Chinese
+Ratatouille,Peruvian
+Mole,Thai
+Banh Mi,Brazilian
+Fried Rice,Mexican
+Hummus,Turkish
+Steak Frites,Indonesian
+Goulash,American
+Tomato Soup,Japanese
+Sauerbraten,Filipino
+Cevapcici,Mexican
+Gnocchi,German
+Jambalaya,Vietnamese
+Spaghetti Carbonara,British
+Tacos al Pastor,Turkish
+Sushi Roll,Vietnamese
+Butter Chicken,American
+Croissant,Korean
+Paella,Mexican
+Beef Bourguignon,Korean
+Tom Yum Soup,Korean
+Baklava,British
+Kimchi Stew,Peruvian
+Moussaka,Vietnamese
+Shawarma,Greek
+Borscht,Korean
+Pad Thai,Greek
+Peking Duck,Chinese
+Hamburger,Brazilian
+Fish and Chips,Korean
+Pho,American
+Arepas,Peruvian
+Churrasco,Indian
+Chicken Adobo,Chinese
+Ceviche,Peruvian
+Pierogi,Thai
+Jollof Rice,British
+Kebab,Indonesian
+Lasagna,Korean
+Goulash,German
+Empanadas,Moroccan
+Fajitas,Chinese
+Ratatouille,Thai
+Okonomiyaki,Filipino
+Bibimbap,Italian
+Sauerbraten,German
+Couscous,Mexican
+Dolma,British
+Dim Sum,Vietnamese
+Gumbo,Indian
+Cottage Pie,Filipino
+Tomato Bruschetta,Italian
+Massaman Curry,American
+Falafel,Chinese
+Sancocho,French
+Tagine,Korean
+Schnitzel,American
+Chicken Parmesan,Spanish
+Clam Chowder,Spanish
+Pav Bhaji,German
+Beef Rendang,Japanese
+Laksa,Chinese
+Tandoori Chicken,Chinese
+Sushi,Indian
+Ramen,French
+Chicken Tikka Masala,Chinese
+Falafel,Korean
+Biryani,Mexican
+Pasta Primavera,Middle Eastern
+Lasagna,Middle Eastern
+Pad See Ew,Chinese
+Ratatouille,Japanese
+Mole,Vietnamese
+Banh Mi,Malaysian
+Fried Rice,American
+Hummus,Indian
+Steak Frites,Japanese
+Goulash,Filipino
+Tomato Soup,German
+Sauerbraten,American
+Cevapcici,British
+Gnocchi,Indian
+Jambalaya,German
+Spaghetti Carbonara,Filipino
+Tacos al Pastor,Brazilian
+Sushi Roll,Italian
+Butter Chicken,Filipino
+Croissant,Indian
+Paella,Filipino
+Beef Bourguignon,Indonesian
+Tom Yum Soup,Japanese
+Baklava,French
+Kimchi Stew,Japanese
+Moussaka,German
+Shawarma,Middle Eastern
+Borscht,German
+Pad Thai,Vietnamese
+Peking Duck,Indonesian
+Hamburger,Italian
+Fish and Chips,French
+Pho,Indian
+Arepas,Brazilian
+Churrasco,American
