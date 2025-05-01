@@ -147,6 +147,5 @@ ORDER BY totalScore DESC, rand()
 LIMIT 10
 
 RETURN d.name AS recommended_dish,
-       d.cuisine AS cuisine,
        r.name AS restaurant,
        totalScore
