@@ -6,7 +6,7 @@ metadata:
 spec:
   selector:
     name:  neo4j
-  type:  LoadBalancer
+  type:  ClusterIP
   ports:
   - name:  ui-port
     port:  7474
